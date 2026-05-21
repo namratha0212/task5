@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 b
+=======
+modified a2 in first c4
+>>>>>>> first

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 cc
+=======
+modified b3
+>>>>>>> first

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 bx
+=======
+modigied c2
+>>>>>>> first
